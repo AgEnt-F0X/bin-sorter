@@ -1,0 +1,43 @@
+{
+  "recyclable": {
+    "plastic bottle": {"bin": "recyclable", "reason": "Rinse it if you can, then plastic bin."},
+    "glass jar": {"bin": "recyclable", "reason": "Glass bin — jars are recyclable."},
+    "can": {"bin": "recyclable", "reason": "Metal bin — cans are infinitely recyclable."},
+    "paper": {"bin": "recyclable", "reason": "Paper bin — but food-soiled paper is landfill."},
+    "cardboard": {"bin": "recyclable", "reason": "Cardboard bin — flatten it first."},
+    "carton": {"bin": "recyclable", "reason": "Paper bin — but food-soiled cartons are landfill."},
+    "newspaper": {"bin": "recyclable", "reason": "Paper bin — clean newspaper is recyclable."},
+    "metal lid": {"bin": "recyclable", "reason": "Metal bin — lids are recyclable."}
+  },
+  "organic": {
+    "food scraps": {"bin": "organic", "reason": "Food bin / compost. It becomes soil, not methane in a landfill."},
+    "fruit peel": {"bin": "organic", "reason": "Food bin / compost. It becomes soil, not methane in a landfill."},
+    "vegetable": {"bin": "organic", "reason": "Food bin / compost. It becomes soil, not methane in a landfill."},
+    "tea bag": {"bin": "organic", "reason": "Food bin / compost. It becomes soil, not methane in a landfill."},
+    "eggshell": {"bin": "organic", "reason": "Food bin / compost. It becomes soil, not methane in a landfill."},
+    "garden leaves": {"bin": "organic", "reason": "Garden waste / compost."}
+  },
+  "ewaste": {
+    "battery": {"bin": "ewaste", "reason": "Never in household bins — find the e-waste drop-off."},
+    "charger": {"bin": "ewaste", "reason": "Never in household bins — find the e-waste drop-off."},
+    "cable": {"bin": "ewaste", "reason": "Never in household bins — find the e-waste drop-off."},
+    "earphones": {"bin": "ewaste", "reason": "Never in household bins — find the e-waste drop-off."},
+    "phone": {"bin": "ewaste", "reason": "Never in household bins — find the e-waste drop-off."},
+    "bulb": {"bin": "ewaste", "reason": "Never in household bins — find the e-waste drop-off."}
+  },
+  "hazardous": {
+    "medicine strip": {"bin": "hazardous", "reason": "Special drop-off — these poison recycling batches."},
+    "syringe": {"bin": "hazardous", "reason": "Special drop-off — these poison recycling batches."},
+    "tube light": {"bin": "hazardous", "reason": "Special drop-off — these poison recycling batches."},
+    "paint tin": {"bin": "hazardous", "reason": "Special drop-off — these poison recycling batches."},
+    "spray can": {"bin": "hazardous", "reason": "Special drop-off — these poison recycling batches."}
+  },
+  "landfill": {
+    "chip packet": {"bin": "landfill", "reason": "Multilayer plastic — can't be recycled."},
+    "straw": {"bin": "landfill", "reason": "Too small for recycling machinery."},
+    "thermocol": {"bin": "landfill", "reason": "Styrofoam — can't be recycled."},
+    "tissue paper": {"bin": "landfill", "reason": "Sad but true — this one can't be recycled."},
+    "diaper": {"bin": "landfill", "reason": "Sad but true — this one can't be recycled."},
+    "cigarette butt": {"bin": "landfill", "reason": "Sad but true — this one can't be recycled."}
+  }
+}

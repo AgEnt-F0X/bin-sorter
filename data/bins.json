@@ -1,0 +1,11 @@
+{
+  "city": "Default",
+  "bins": [
+    {"id": "recyclable", "label": "Recyclable", "color": "#4DABF7", "emoji": "♻️"},
+    {"id": "organic", "label": "Organic / Food Waste", "color": "#51CF66", "emoji": "🍃"},
+    {"id": "ewaste", "label": "E-Waste", "color": "#FFA94D", "emoji": "🔋"},
+    {"id": "hazardous", "label": "Hazardous", "color": "#FF6B6B", "emoji": "☣️"},
+    {"id": "landfill", "label": "Landfill", "color": "#ADB5BD", "emoji": "🗑"}
+  ],
+  "overrides": {}
+}

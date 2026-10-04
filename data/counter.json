@@ -1,0 +1,24 @@
+{
+  "date": "2026-10-04",
+  "sorted": 43,
+  "items": {
+    "mouse→ewaste": 6,
+    "rubber_eraser→landfill": 5,
+    "ballpoint→landfill": 3,
+    "hard_disc→ewaste": 1,
+    "space_heater→ewaste": 4,
+    "coffee_mug→landfill": 4,
+    "mixing_bowl→landfill": 1,
+    "pencil_sharpener→landfill": 1,
+    "toilet_tissue→landfill": 1,
+    "menu→landfill": 5,
+    "binder→landfill": 3,
+    "tennis_ball→landfill": 1,
+    "book_jacket→recyclable": 1,
+    "beer_bottle→recyclable": 1,
+    "lighter→hazardous": 1,
+    "notebook→ewaste": 3,
+    "envelope→recyclable": 1,
+    "computer_keyboard→ewaste": 1
+  }
+}
